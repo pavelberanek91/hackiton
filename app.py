@@ -7,8 +7,6 @@ def kousej(koho):
 def nacti_data():
     input("Zadej data: ")
 
-def nacti_cislo(): ... #tohle se mi nebude libit
-
 def nacti_slovo(): ... #tohle se mi bude libit
 
 pozdrav("Chro chro")
