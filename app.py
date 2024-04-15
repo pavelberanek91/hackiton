@@ -10,6 +10,8 @@ def nacti_data():
 pozdrav("Chro chro")
 pozdrav("kvaak kvaak")
 pozdrav("haf haf haf")
+pozdrav("buuu buuu")
+pozdrav("beee beeee")
 kousej("beranka")
 
 # git commit -am "opravil jsem typo"
