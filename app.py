@@ -1,5 +1,5 @@
 def pozdrav(jak):
-    print(jak)
+    print("Sauron te zdravi", jak)
 
 def kousej(koho):
     print(f"kousam kous kous Skvaru")
