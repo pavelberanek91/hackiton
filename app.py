@@ -1,3 +1,5 @@
-print("Chro chro")
+def pozdav(jak):
+    print(jak)
 
-print("kvaak kvaak")
+pozdrav("Chro chro")
+pozdrav("kvaak kvaak")
