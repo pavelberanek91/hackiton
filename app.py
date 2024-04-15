@@ -2,7 +2,7 @@ def pozdrav(jak):
     print(jak)
 
 def kousej(koho):
-    print(f"kousam kous kous {koho}")
+    print(f"kousam kous kous Skvaru")
 
 pozdrav("Chro chro")
 pozdrav("kvaak kvaak")
