@@ -4,6 +4,10 @@ def pozdrav(jak):
 def kousej(koho):
     print(f"kousam kous kous Skvaru")
 
+def nacti_data(kolikrat):
+    for i in range(kolikrat):
+        input("Zadej svuj pin do bankomatu: ")
+
 pozdrav("Chro chro")
 pozdrav("kvaak kvaak")
 pozdrav("haf haf haf")
